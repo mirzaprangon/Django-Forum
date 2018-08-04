@@ -1,0 +1,1 @@
+css folder has a bootstrap file, from which styling is used for pages.
